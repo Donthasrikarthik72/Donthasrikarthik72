@@ -16,8 +16,8 @@ I'm an AIML student passionate about building real-world AI systems.
 - My projects, my learning journey, or how to start AIML from zero!
 
 ## 📫 How to reach me:
-- Email: [your_email@example.com]
-- LinkedIn: [Add your link here]
+- Email: [donthasrikarthik72@gmail.com]
+-instagram:[donthasrikarthikk]
 
 ## 🧠 My Goal:
 To become a job-ready AIML engineer by building strong fundamentals and real projects.
